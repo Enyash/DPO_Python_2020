@@ -37,4 +37,4 @@
 Если файл .ipynb сохраняется как текст или с лишним расширением (например, .txt), то нужно выбрать при сохранении тип файла все файлы, 
 а не текст, или после сохранения убрать вручную расширение, переименовав файл.
 
-Подробнее про работу с GitHub можно прочитать [здесь](https://github.com/rogovich/2020_DPO_PythonProg/blob/master/1_Introduction/2020_DPO_0_git.ipynb)
+Подробнее про работу с GitHub можно прочитать [здесь](https://github.com/pileyan/DPO_Python_2020/blob/master/1_Introduction/2020_DPO_1_0_git.ipynb)
